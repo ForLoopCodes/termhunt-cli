@@ -1,6 +1,6 @@
 {
   "name": "termhunt-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CLI for fetching and executing Makefiles from terminal-hunt app",
   "bin": {
     "hunt": "./index.js"
