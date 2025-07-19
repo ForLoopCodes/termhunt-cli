@@ -1,0 +1,14 @@
+{
+  "name": "termhunt-cli",
+  "version": "1.0.0",
+  "description": "CLI for fetching and executing Makefiles from terminal-hunt app",
+  "bin": {
+    "hunt": "./index.js"
+  },
+  "main": "index.js",
+  "author": "ForLoopCodes",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
